@@ -45,14 +45,13 @@ Official page for more info can be found <a href="https://www.eff.org/privacybad
 </div>
 
 <div class="recommend">
-<h5 class="text-white"><strong>AdBlock</strong></h5>
+<h5 class="text-white"><strong>uBlock Origin</strong></h5>
 <br>
-AdBlock blocks ads on 99% of the sites you visit. Ads can be the source of a virus, activity tracking, malware, or just plain annoyingness, so this extension will pre-emptively block these nasty things with no effort from you. Note that the recommended AdBlock for Firefox is not developed by a marketing company, while the chrome version is. The latter will sometimes give you ads that their company has sold.<br>
+uBlock Origin blocks ads on 99% of the sites you visit. Ads can be the source of a virus, activity tracking, malware, or just plain annoyingness, so this extension will pre-emptively block these nasty things with no effort from you. <br>
 <br>
-Install for Firefox <a href="https://addons.mozilla.org/en-US/firefox/addon/adblock-edge/">here</a><br>
-Install for Chrome <a href="https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en-US">here</a><br>
-Official page for the Firefox extension <a href="https://bitbucket.org/adstomper/adblockedge/">here</a><br>
-Official page for the Chrome extension <a href="https://adblockplus.org/en/about">here</a><br>
+Install for Firefox <a href="https://addons.mozilla.org/addon/ublock-origin/">here</a><br>
+Install for Chrome <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">here</a><br>
+Official page for uBlock Origin extension <a href="https://github.com/gorhill/uBlock/">here</a><br>
 </div>
 
 <div class="recommend">
@@ -73,16 +72,6 @@ Many sites are set-up to encrypt (i.e. make private) your activity when you visi
 Install for Firefox <a href="https://www.eff.org/https-everywhere">here</a><br>
 Install for Chrome <a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en">here</a><br>
 Official page for more info can be found <a href="https://www.eff.org/https-everywhere/faq">here</a>
-</div>
-
-<div class="recommend">
-<h5 class="text-white"><strong>Better Privacy</strong></h5>
-<br>
-This extension blocks “super cookies”, another way that websites (like YouTube or Ebay) can track your activity on the web.<br>
-<br>
-Install for Firefox <a href="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/">here</a><br>
-Unavailable for Chrome :(<br>
-Official page for more info can be found <a href="https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/">here</a>
 </div>
 
 <hr>
@@ -156,7 +145,7 @@ There are a countless number of situations where Tails could be an invaluable to
 Tails is a portable, Linux-based operating system specifically designed for personal privacy. You install it on a DVD or a USB flash drive and can boot it from nearly any computer you like, whether it's Windows, Apple, or Linux-based. So why is this useful?<br>
 <br>
 <ul>
-	<li>Tails is an amnesic system, meaning no data is stored between sessions: every time you use it you can have a totally fresh digital environment, with no personally identifying information, regardless of whose computer you're using</strong> (this can be especially useful if you do not have safe access to your own computer).</li> 
+	<li>Tails is an amnesic system, meaning no data is stored between sessions: every time you use it you can have a totally fresh digital environment, with no personally identifying information, regardless of whose computer you're using</strong> (this can be especially useful if you do not have safe access to your own computer).</li>
 	<li>All internet connections used by Tails are routed through the <a href="#tor">Tor Network</a>, so your IP address, location, and activity cannot be readily monitored by outside parties</strong> (your ISP can see you are using Tor, but cannot see how you are using it. Only a very determined nation-state could try to pinpoint your Tor activity)</li>
 	<li>Your computer's MAC address is spoofed, meaning that your internet connection does not have a unique, recognizable hardware identifier (like it normally does)</li>
 	<li>Important privacy extensions like <a href="#httpseverywhere">HTTPS Everywhere</a> are preinstalled in Firefox for Tails so your web browsing can be encrypted whenever it leaves the Tor network to a HTTPS-supported site.</li>
@@ -168,9 +157,3 @@ To install Tails on a DVD or USB flash drive, follow the instructions on the <a 
 <br>
 Unfortunately, Tails is not a perfectly secure system: like anything else, there are still risks of surveillance or hacking to be found (albeit much lower risks than you get with regular desktop or phone browsing). We definitely suggest you check out the <a href="https://tails.boum.org/doc/about/warning/index.en.html">Tails warning documentation</a> so you can be better aware of the strengths and weaknesses of this digital space.
 </ul>
-	
-
-
-
-
-
