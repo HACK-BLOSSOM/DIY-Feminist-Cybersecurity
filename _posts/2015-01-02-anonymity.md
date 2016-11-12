@@ -112,7 +112,7 @@ While some techies run their own VPN servers, most people tend to use VPN provid
 There are many VPN providers out there so it can be tough deciding who to use. Generally you want someone that does not store logs of its users while implementing OpenVPN as its VPN technology (some VPN tech has been hacked by the NSA; as far as we know, OpenVPN has not). It's also great when you have choices about where the VPN server will be: being able to route your traffic through other countries is a fantastic, effortless security measure. Generally speaking, paid providers are much easier to use and can offer customer service and useful guides, but there are free providers out there as well. Here are a few providers we recommend:<br>
 <br>
 <ul>
-	<li><a href="https://www.privateinternetaccess.com/">Private Internet Access</a> is a paid VPN provider that allows you to choose which countries to route your connections through, the ability to pay anonymously via giftcards, and does not store logs about its users' activity. It costs $3.33 a month on a yearly plan, or $7 a month on a monthly plan.</li>
+	<li><a href="https://airvpn.org/">AirVPN</a> is a paid VPN provider that allows you to choose which countries to route your connections through, the ability to pay anonymously via bitcoin, and does not store logs about its users' activity. It costs $5 a month on a yearly plan, or $8 a month on a monthly plan. It comes with its own VPN client for easy use!</li>
 	<li><a href="https://www.feralhosting.com/pricing">Feral Hosting</a> is a paid Seedbox provider that allows you to create a personal VPN server as well as other web services like torrent clients, website management, and file storage. This is a great option for the more adventurous nerds that like the idea of having their own server to play with, but with tons of installation guides, automated management, and fantastic customer support (so it's not as hardcore as having a totally independent server). It costs ~$15 a month for its cheapest plan.</li>
 	<li><a href="https://www.cyberghostvpn.com/en_us">CyberghostVPN</a> has limited no-cost options: you can connect for up to 3 hours to one of their VPN networks. This is great if you can't afford a VPN but might want to be safe when working on public wifi once in a while.</li>
 </ul>
@@ -126,6 +126,7 @@ To use a VPN, you need to install a VPN client on your computer that will commun
 <a href="https://www.sparklabs.com/viscosity/">Viscosity</a> is a paid client for Mac and Windows<br>
 <a href="https://code.google.com/p/tunnelblick/">Tunnelblick</a> is a free client for Macs<br>
 <a href="http://openvpn.net/">OpenVPN</a> offers a free client for Windows<br>
+If you use <a href="https://airvpn.org/">AirVPN</a>, they give you a free client!</a>
 </div>
 
 <hr>
@@ -149,7 +150,7 @@ Tails is a portable, Linux-based operating system specifically designed for pers
 	<li>All internet connections used by Tails are routed through the <a href="#tor">Tor Network</a>, so your IP address, location, and activity cannot be readily monitored by outside parties</strong> (your ISP can see you are using Tor, but cannot see how you are using it. Only a very determined nation-state could try to pinpoint your Tor activity)</li>
 	<li>Your computer's MAC address is spoofed, meaning that your internet connection does not have a unique, recognizable hardware identifier (like it normally does)</li>
 	<li>Important privacy extensions like <a href="#httpseverywhere">HTTPS Everywhere</a> are preinstalled in Firefox for Tails so your web browsing can be encrypted whenever it leaves the Tor network to a HTTPS-supported site.</li>
-	<li>Tails comes with fantastic privacy software already installed, such as a <a href="#pgp">PGP email client</a> for sending encrypted emails and an <a href="#otr">OTR-enabled chat client</a> for encrypted instant messaging.</li>
+	<li>Tails comes with fantastic privacy software already installed, such as a <a href="#pgp">PGP email client</a> for sending encrypted emails.</li>
 	<li>There's even a "Camouflage" mode so that your desktop looks just like a Windows desktop, in case you don't want to arouse suspicion.</li>
 </ul>
 <br>
