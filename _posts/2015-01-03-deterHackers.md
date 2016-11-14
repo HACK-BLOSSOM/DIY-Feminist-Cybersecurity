@@ -76,11 +76,19 @@ Here are a few general rules to follow for creating good, strong passwords:
 <ol>
 	<li>A mixture of random letters, numbers, and special characters is best.</li>
 	<li>The longer, the better. 12 characters or more!</li>
-	<li>If you have real words in your password, try to use obscure and/or weirdly misspelled references. Dictionary or pop culture words are bad.</li>
 	<li>DON’T RE-USE PASSWORDS ACROSS MULTIPLE SITES.</li>
 	<li>DON’T RE-USE PASSWORDS ACROSS MULTIPLE SITES.</li>
 </ol>
 </div>
+<br>
+Memorizing passwords that follows these rules can be a total pain, especially when you have so many. Luckily, xkcd <a href="https://xkcd.com/936/">has a wonderful approach</a>: <strong>When creating passwords, use passphrases of three or four random words.</strong> Not only are these passwords far easier to remember, they're far more difficult to hack because they're so long! Here's a few examples:
+<br>
+<ol>
+	<li>correcthorsebatterystaple</li>
+	<li>sillyredkitchenplant</li>
+    <li>librarypantherseatvanilla</li>
+</ol>
+
 
 <hr>
 <div id="passwordmanager">
