@@ -19,11 +19,11 @@ With so many cybersecurity tools out there, it can be intimidating to figure out
 This cheat sheet is best for internet feminists: you can make it much more difficult for trolls, trackers, and hackers to compromise your digital spaces. Our recommended tech for you is all free, requires only minimal set-up, and gives you easy options for securing your digital spaces and data. With almost all of this tech, you rarely have to think about what it's doing: it just works.<br>
 <br>
 <ul>
-	<li>Install <a href="#privacyextensions">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible</li>
-	<li>Enable <a href="#twofactor">Two-Factor Authentication</a> for your digital accounts (especially email and social-media) to keep your acounts safe</li>
+	<li>Install <a href="#privacyextensions">privacy extensions</a> for Firefox to stop web trackers and encrypt your browsing whenever possible. Secure your <a href="#mobilebrowsing">mobile browsing</a> too!</li>
+	<li>Enable <a href="#twofactor">Two-Factor Authentication</a> for your digital accounts (especially email and social-media) to keep your accounts safe</li>
 	<li>Download the <a href="#tor">Tor Browser</a> so you can browse anonymously when you need to</li>
 	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">your computer</a> to protect your private files, pictures, and media</li>
-	<li>Be aware of common <a href="#phishing">Phishing</a> schemes</a></li>
+	<li>Be aware of common <a href="#phishing">Hacking and Phishing</a> schemes</a></li>
 	<li>Know your <a href="#privacysettings">Social Media Security</a></li>
 </ul>
 <br>
@@ -52,7 +52,7 @@ This cheat sheet is best for people who, for whatever reason, need greater contr
 	<li>Hide your physical location and encrypt your web connections with your own <a href="#vpn">Virtual Private Network</a> connected to your computer and <a href="#phonevpn">your phone</a></li>
 	<li>Install <a href="#tails">Tails</a> on a flash drive so you can have a portable, anonymous, amnesic operating system on any computer you encounter</li>
 	<li>Browse the internet anonymously with <a href="#tor">Tor Browser</a></li>
-	<li>Use <a href="#privacyextensions">privacy extensions</a> for Firefox for casual web browsing</li>
+	<li>Use <a href="#privacyextensions">privacy extensions</a> for Firefox and <a href="#mobilebrowsing">secure mobile browsers</a> for casual web browsing</li>
 	<li>Use a <a href="#fakeemail">fake email address</a> for creating digital accounts</li>
 </ul>
 </div>

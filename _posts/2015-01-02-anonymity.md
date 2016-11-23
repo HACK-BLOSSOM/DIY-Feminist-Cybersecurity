@@ -32,7 +32,7 @@ The goal of the section is to make your internet activity secure from nonconsens
 
 Browser extensions are no-cost software you can install in your browser to customize your browsing experience. Listed below are extensions that help make your internet browsing safer from governments, corporations, or hackers snooping on your activity. If you don’t feel like reading, just follow the download links and install the extensions; your browser will end-up very secure! However, we recommend at least reading about each extension before you install.
 
-It’s also worth pointing out that of the popular internet browsers (Chrome, Firefox, Safari, Internet Explorer), the only browser not developed by a for-profit corporation is Firefox. The developers of Firefox, Mozilla, have a long history of protecting users rights and are very active in fighting for a free and open internet. With the other browsers, your activity is frequently tracked by the company that owns the browser, so this guide strongly recommends using Firefox as your main computer browser.
+It’s also worth pointing out that of the popular internet browsers (Chrome, Firefox, Safari, Internet Explorer), the only browser not developed by a for-profit corporation is Firefox. The developers of Firefox, <a href="https://www.mozilla.org/en-US/">Mozilla</a>, have a long history of protecting users rights and are very active in fighting for a free and open internet. With the other browsers, your activity is frequently tracked by the company that owns the browser, so this guide strongly recommends using Firefox as your main computer browser. Make sure to check out our section on <a href="#mobilebrowsing">mobile browsing</a> if you're interested in securing your mobile activity too.
 
 <div class="recommend">
 <h5 class="text-white"><strong>Privacy Badger</strong></h5>
@@ -72,6 +72,33 @@ Many sites are set-up to encrypt (i.e. make private) your activity when you visi
 Install for Firefox <a href="https://www.eff.org/https-everywhere">here</a><br>
 Install for Chrome <a href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en">here</a><br>
 Official page for more info can be found <a href="https://www.eff.org/https-everywhere/faq">here</a>
+</div>
+<hr>
+
+<div id="mobilebrowsing">
+<p>
+	<h3 class="text-white">Mobile Privacy: <strong>Firefox Focus</strong> and <strong>Firefox for Android</strong></h3>
+</p>
+</div>
+As useful as computer security can be, we increasingly do our web browsing on our phones and tablets. The nature of iOS and Android is that you have less control over your device than on your laptop: you can only install software made available through the app and play stores, and you are often very limited in the settings and capabilities of those apps. Fortunately for your privacy, the awesome developers at <a href="https://www.mozilla.org/en-US/">Mozilla</a> have created fantastic browsing apps for your phone!
+
+
+<div id="firefoxfocus" class="recommend">
+<h5 class="text-white"><strong>Firefox Focus for iOS</strong></h5>
+<br>
+Firefox Focus is a web browser dedicated to private browsing. By blocking malicious trackers and advertisements, Firefox Focus mitigates website surveillance while increasing the speed of your web pages. It also serves as a content-blocker on iOS, meaning you can enjoy its privacy features in other apps. To enable these features in Safari, go to Safari under Settings, click 'Content Blockers', and enable Firefox Focus.<br>
+<br>
+Install for iOS <a href="https://mzl.la/2fGnsyD">here</a><br>
+Introductory blog post for more info can be found <a href="https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/">here</a>
+</div>
+
+<div id="firefoxandroid" class="recommend">
+<h5 class="text-white"><strong>Firefox for Android</strong></h5>
+<br>
+Firefox for Android is a fast and reliable web browser that can install all the same extensions as the desktop version of Firefox. So if you want secure mobile browsing on Android, all you have to do is download Firefox for Android and start installing the secure tools in our <a href="#privacyextensions">Privacy Extensions</a> section!<br>
+<br>
+Install for Android <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox">here</a><br>
+Official website can be found <a href="https://www.mozilla.org/en-US/firefox/android/">here</a>
 </div>
 
 <hr>

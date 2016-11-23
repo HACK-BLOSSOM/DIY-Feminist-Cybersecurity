@@ -28,6 +28,12 @@ As a rule of thumb, if an email link directs you to a login screen, you should b
 </div>
 
 <div class="recommend">
+<h5 class="text-white">Always install software updates as soon as possible</h5>
+<br>
+Hackers often rely on exploitable vulnerabilities in popular software to target their victims. Software developers can quickly become aware of these vulnerabilities and release software updates to fix the issue. It's imperative that you keep your software up-to-date so that your apps have the latest security fixes available to you! This is easy to do too: when your computer notifies you that there are updates to install, just go ahead and do it. Especially make sure to install macOS, iOS, Android, and Windows operating system updates ASAP!
+</div>
+
+<div class="recommend">
 <h5 class="text-white">Try not to login to websites via Facebook, Twitter, or Google</h5>
 <br>
 Many websites offer the option of logging in with your social media account rather than having to create an account for the website. Although convenient, this presents a huge security risk: how do you know if this site is legitimate? By encouraging unsuspecting users to use their social media accounts, a malicious website can easily collect valuable names and passwords. It's much safer to just create a new account for the site.
