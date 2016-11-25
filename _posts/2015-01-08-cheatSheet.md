@@ -23,7 +23,7 @@ This cheat sheet is best for internet feminists: you can make it much more diffi
 	<li>Enable <a href="#twofactor">Two-Factor Authentication</a> for your digital accounts (especially email and social-media) to keep your accounts safe</li>
 	<li>Download the <a href="#tor">Tor Browser</a> so you can browse anonymously when you need to</li>
 	<li>Encrypt <a href="#phoneencryption">your phone</a> and <a href="#computerencryption">your computer</a> to protect your private files, pictures, and media</li>
-	<li>Be aware of common <a href="#phishing">Hacking and Phishing</a> schemes</a></li>
+	<li>Be aware of common <a href="#phishing">Hacking and Phishing</a> schemes</li>
 	<li>Know your <a href="#privacysettings">Social Media Security</a></li>
 </ul>
 <br>

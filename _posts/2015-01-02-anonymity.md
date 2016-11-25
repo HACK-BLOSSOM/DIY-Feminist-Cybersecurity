@@ -80,7 +80,7 @@ Official page for more info can be found <a href="https://www.eff.org/https-ever
 	<h3 class="text-white">Mobile Privacy: <strong>Firefox Focus</strong> and <strong>Firefox for Android</strong></h3>
 </p>
 </div>
-As useful as computer security can be, we increasingly do our web browsing on our phones and tablets. The nature of iOS and Android is that you have less control over your device than on your laptop: you can only install software made available through the app and play stores, and you are often very limited in the settings and capabilities of those apps. Fortunately for your privacy, the awesome developers at <a href="https://www.mozilla.org/en-US/">Mozilla</a> have created fantastic browsing apps for your phone!
+We constantly browse the web on our phones and tablets. iOS and Android give you less control over your environment compared to your laptop: you can only install software made available through the app and play stores, and you are limited in the settings and capabilities of those apps. Fortunately for your privacy, the awesome developers at <a href="https://www.mozilla.org/en-US/">Mozilla</a> have created fantastic browsing apps for your phone!
 
 
 <div id="firefoxfocus" class="recommend">
