@@ -107,23 +107,22 @@ As you can guess, making strong passwords sucks. When you have dozens of account
 You’re probably suspicious: isn’t it dangerous to have all your passwords in one place? And you’d be right to think so, because it is! That’s why it’s important to evaluate how a given password manager actually manages the passwords and what protections are in place. Ultimately, you have to decide for yourself how you balance the risk of bad passwords, spread out across your accounts, against the risk of good passwords centralized in one location.
 
 <div class="recommend">
-<h5 class="text-white"><strong>LastPass</strong></h5>
+<h5 class="text-white"><strong>1Password</strong></h5>
 <br>
-Given how hard it is to remember safe, unique passwords, we still recommend a password manager, specifically the service <strong>LastPass</strong>.<br>
+Given how hard it is to remember safe, unique passwords, we still recommend a password manager, specifically the service <strong>1Password</strong>.<br>
 <br>
-LastPass uses a combination of browser extensions, phone apps, encryption, two-factor authentication, and a multitude of other technologies to ensure your passwords are stored safely and accessibly (for only you!). It can also randomly generate -extremely- strong passwords for you to use. We especially like LastPass because all of your passwords are encrypted when saved in LastPass’ cloud: even if they were hacked, a hacker could not use them unless they knew your LastPass password (which is never stored by LastPass). Needless to say, if you decide to use LastPass, make sure your password to access LastPass is the strongest password you’ve ever had! You won’t have to remember your passwords anymore, so this should be a bit easier to do.<br>
+1Password uses a combination of browser extensions, phone apps, encryption, two-factor authentication, and a multitude of other technologies to ensure your passwords are stored safely and accessibly (for only you!). It can also randomly generate -extremely- strong passwords for you to use. We especially like 1Password because all of your passwords are encrypted and stored where you want them: it's your choice whether to store it locally, in cloud storage (Dropbox, google Drive, etc), or with a 1Password account. Needless to say, if you decide to use 1Password, make sure your password to access 1Password is the strongest password you’ve ever had! You won’t have to remember your passwords anymore, so this should be a bit easier to do.<br>
 <br>
-You can get started with LastPass at their <a href="https://lastpass.com/">official site</a>.<br>
+You can get started with 1Password at their <a href="https://1password.com/">official site</a>.<br>
 <br>
-As we keep our minds on risk mitigation, we recommend that you do not use LastPass for your email, bank, or healthcare accounts. Although LastPass is a very secure service, it’s still a company subject to mistakes and vulnerabilities. By separating out your most crucial passwords, you have a bit of protection by not having ALL your eggs in one basket. The important eggs are worth storing in their own basket!<br>
+As we keep our minds on risk mitigation, we recommend that you do not use 1Password for your email, bank, or healthcare accounts. Although 1Password is a very secure service, it’s still a company subject to mistakes and vulnerabilities. By separating out your most crucial passwords, you have a bit of protection by not having ALL your eggs in one basket. The important eggs are worth storing in their own basket!<br>
 <br>
-A few good rules of thumb for using LastPass:<br>
+A few good rules of thumb for using 1Password:<br>
 <br>
 <ul>
 	<li>Use password generation for lengthy, complicated passwords. At least 16 characters with letters, numbers, and symbols is good.</li>
-	<li>Make sure to enable Two-Factor Authentication for LastPass.</li>
+	<li>Make sure to enable Two-Factor Authentication for 1Password.</li>
 	<li>Always require your master password for entering passwords for important accounts.</li>
-	<li>Once you have logged-in to LastPass from your phone and/or tablet, from your vault page on the LastPass website, go to Settings, and under the “Mobile Devices” tab, make sure to check “Restrict mobile devices to the specific UUIDs listed as enabled below”. This way only these specific devices can be used to login to your LastPass.</li>
 </ul>
 </div>
 
