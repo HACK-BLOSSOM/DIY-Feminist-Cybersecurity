@@ -39,7 +39,7 @@ It’s also worth pointing out that of the popular internet browsers (Chrome, Fi
 <br>
 'Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web. If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser. To the advertiser, it's like you suddenly disappeared.' - Electronic Frontier Foundation<br>
 <br>
-Install for Firefox <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger-firefox/">here</a><br>
+Install for Firefox <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/">here</a><br>
 Install for Chrome <a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US">here</a><br>
 Official page for more info can be found <a href="https://www.eff.org/privacybadger">here</a>
 </div>
