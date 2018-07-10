@@ -30,15 +30,15 @@
   <div id="main">
 
     <nav id="navbar" style="display: none;"><ul>
-      {% for node in site.posts reversed %}
-        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+      {% for node in site.cybersecurity %}
+        {% capture id %}{{ node.id | remove:'cybersecurity' | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
 
 
-    {% for page in site.posts reversed %}
-      {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+    {% for page in site.cybersecurity %}
+      {% capture id %}{{ page.id | remove:'cybersecurity' | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
