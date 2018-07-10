@@ -7,7 +7,6 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
@@ -23,6 +22,8 @@ favicon:     "img/favicon.ico"
 touch_icon:  ##"img/apple-touch-icon.png"
 google_analytics_key: "UA-32315541-3"
 
+collections:
+  - cybersecurity
 
 ### template colors, used site-wide via css ###
 colors:
